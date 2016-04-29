@@ -1,6 +1,6 @@
 {
-  "name": "__package_name__",
-  "description":"__description__",
+  "name": "not-available-bot",
+  "description":"A simple bot to tell the visitor that there isnt a bot to talk to, except this one, and it aint talking.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "bundle exec ruby bot.rb",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "__git_repo_url__"
+    "url": "https://github.com/green-bot/not-available-bot"
   },
   "keywords": [
     "green-bot",
@@ -16,7 +16,7 @@
     "bot",
     "bashbot"
   ],
-  "author": "__author__",
+  "author": "Thomas Howe",
   "license": "MIT",
   "version": "0.1.0"
 }

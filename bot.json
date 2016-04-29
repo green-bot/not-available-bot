@@ -1,6 +1,6 @@
 [{
   "default_cmd": "npm start",
-  "default_path": ".\/node_modules\/__package_name__",
+  "default_path": "./node_modules/not-available-bot",
   "default_settings": [
    {
       "name": "PROMPT_1",
@@ -18,10 +18,10 @@
       "type": "text"
     }
   ],
-  "desc": "__description__",
+  "desc": "A simple bot to tell the visitor that there isnt a bot to talk to, except this one, and it aint talking.",
   "icon_class": "information",
-  "name": "__package_name__"
+  "name": "not-available-bot",
   "owner_cmd": "",
-  "short_desc": "__description__",
-  "repo_link": "__git_repo_url__"
+  "short_desc": "A simple bot to tell the visitor that there isnt a bot to talk to, except this one, and it aint talking.",
+  "repo_link": "https://github.com/green-bot/not-available-bot"
 }]
